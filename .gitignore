@@ -1,0 +1,32 @@
+/node_modules
+/jspm_packages
+/dist
+
+.env
+
+# mac files
+.DS_Store
+
+# generated code
+examples/typescript-server.js
+test/types/index.js
+
+# vscode
+.vscode
+*code-workspace
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
